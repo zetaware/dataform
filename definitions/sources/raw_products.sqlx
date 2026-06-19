@@ -1,6 +1,6 @@
 config {
   type: "declaration",
-  database: "curso-dataform-488319",
+  database: "dataform-sandbox-499621",
   schema: "raw_data",
   name: "products",
   description: "Catálogo de productos"
