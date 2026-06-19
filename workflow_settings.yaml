@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-defaultProject: dataform-sandbox-499621
-defaultDataset: dataform
-defaultAssertionDataset: dataform_assertions
-dataformCoreVersion: 3.0.52
-=======
-defaultProject: "curso-dataform-488319"
+defaultProject: "dataform-sandbox-499621"
 defaultLocation: "US"
 defaultDataset: "dataform_staging"
 defaultAssertionDataset: "dataform_assertions"
-dataformCoreVersion: "3.0.42"
->>>>>>> refs/heads/dataform-gcp
+dataformCoreVersion: "3.0.52"
