@@ -7,6 +7,7 @@ config {
 SELECT
   user_id,
   name,
+  -- If value is null then set 'Standard' value.
   COALESCE(membership_tier, 'Standard') as membership_tier,
   signup_date
 FROM
